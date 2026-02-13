@@ -6,10 +6,10 @@ services:
     restart: unless-stopped
     environment:
       SECRET_KEY: "django-insecure-!(t-!f#6g#sr%yfded9(xha)g+=!6craeez^cp+*&bz_7vdk61"
-      GHUSER: "github_username"
-      GHBEARER: "github_access_token"
-      GENURL: "accessible_url_of_server"
-      ZIP_PASSWORD: ""
+      GHUSER: "Boxxxy"
+      GHBEARER: "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"
+      GENURL: "https://rdgen.hostname.com"
+      ZIP_PASSWORD: "plok4er08"
       GHBRANCH: "master"
       PROTOCOL: "https"
       REPONAME: "rdgen"
